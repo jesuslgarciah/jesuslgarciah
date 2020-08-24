@@ -1,16 +1,18 @@
-### Hi there 👋
+# Hi there 👋, I'm Jesus Garcia
 
-<!--
-**jesuslgarciah/jesuslgarciah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm from Colombia and I´m Software Automation Engineer. I'm about 3 years working like Automated Test Developer with diferent tools like Selenium with Java or C#, JMeter and Postman.
 
-Here are some ideas to get you started:
+I'm currently a Platzi Master Student on cohort 6, with approach on backend with Javascript. Also, I´m knowledge about HTML, CSS and JS for the frontend
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My stack include knowledge in:
+- Java
+- C#
+- HTML, CSS and JS
+- Selenium
+- Cucumber
+- Docker
+- Jenkins
+
+>If you want contact me, please send me an email to **jelegaho@gmail.com**
+
+>You can find me in Twitter or Instagram like **@jesuslgarciah**
